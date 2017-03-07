@@ -1,0 +1,6 @@
+<application>
+  <component name="GithubSettings">
+    <option name="LOGIN" value="DanMorg" />
+    <option name="AUTH_TYPE" value="BASIC" />
+  </component>
+</application>
