@@ -18,6 +18,10 @@
           <option name="url" value="https://github.com/joselmenda/SICMA.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/N0tM3/SICMAPP.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Dani_2\AndroidStudioProjects" />
